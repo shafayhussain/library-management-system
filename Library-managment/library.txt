@@ -1,0 +1,6 @@
+| 200	| shafay	| 03333016864	| rich dad poor dad	| robert kayosaki	| 2/6/2022		| 3/6/2022|
+
+| 300	| aimal	| 03333016864	| fault in our stars	| john green	| 2/6/2022		| 2/6/2022|
+
+|102	|shafay		|0333016864		|rich dad poor dad	|robert kyvoski	|2/2/2022	|1/2/2022	|500	|returned|
+
